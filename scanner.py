@@ -71,4 +71,4 @@ requests.post(
     }
 )
 
-print("Scanner completed")
+print("Scanner completed successfully")
