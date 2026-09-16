@@ -1,2 +1,0 @@
-print("HELLO FROM NEW VERSION")
-``
